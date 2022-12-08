@@ -1,0 +1,8 @@
+
+<suite name="automatioProject">
+    <test name="loginfacenbook">
+        <classes>
+            <class name="FacebookLogin"/>
+        </classes>
+    </test>
+</suite>
